@@ -1,0 +1,31 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\raizo\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named resource - imported by posix, F:\Git\excel_formatting_tool\main.py
+missing module named posix - imported by os, F:\Git\excel_formatting_tool\main.py
+missing module named _posixsubprocess - imported by subprocess, F:\Git\excel_formatting_tool\main.py
+missing module named 'org.python' - imported by pickle, F:\Git\excel_formatting_tool\main.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, F:\Git\excel_formatting_tool\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Git\excel_formatting_tool\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Git\excel_formatting_tool\main.py
+missing module named _winreg - imported by platform, F:\Git\excel_formatting_tool\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\Git\excel_formatting_tool\main.py
+missing module named 'java.lang' - imported by platform, F:\Git\excel_formatting_tool\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\Git\excel_formatting_tool\main.py
+missing module named termios - imported by tty, F:\Git\excel_formatting_tool\main.py, getpass
+missing module named grp - imported by shutil, tarfile, F:\Git\excel_formatting_tool\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, F:\Git\excel_formatting_tool\main.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, F:\Git\excel_formatting_tool\main.py
+missing module named org - imported by copy, F:\Git\excel_formatting_tool\main.py
+missing module named matplotlib - imported by xlwings.utils, xlwings.main
+missing module named numpy - imported by comtypes.npsupport, comtypes.safearray, xlwings.utils, xlwings._xlwindows, xlwings._xlmac, xlwings.conversion, xlwings.conversion.standard, xlwings.conversion.numpy_conv, xlwings.conversion.pandas_conv
+missing module named PIL - imported by xlwings.main
+missing module named 'matplotlib.backends' - imported by xlwings.main
+missing module named pandas - imported by xlwings._xlwindows, xlwings._xlmac, xlwings.conversion, xlwings.conversion.numpy_conv, xlwings.conversion.pandas_conv
+missing module named 'appscript.reference' - imported by xlwings._xlmac
+missing module named appscript - imported by xlwings._xlmac
+missing module named aem - imported by xlwings._xlmac
+missing module named psutil - imported by xlwings._xlmac
+missing module named comtypes.gen - imported by comtypes, comtypes.client._code_cache, comtypes.client
+missing module named sets - imported by comtypes.tools.typedesc_base, comtypes.tools.tlbparser, comtypes.tools.codegenerator
+missing module named 'comtypes.gen' - imported by comtypes.client._generate
+missing module named future_builtins - imported by xlwings
