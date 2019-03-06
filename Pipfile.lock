@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "6a599c47c84e9dd2fac2fc9dae226ef6e87b0f60b75eb846293407b94adeb480"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "appscript": {
+            "hashes": [
+                "sha256:0a7c87276f93318d2fb0c56530cfd974f62ea33e07e124cf903f46a7398abffc",
+                "sha256:35c2ba2894348413a29daa19008d5f1c349a832206eccc97ded50cee3ad852e5",
+                "sha256:87dbe865fcdeb06ff6f684759f3e5abbaa758500dc4776befed87e2819f579e6",
+                "sha256:8fe992508ce705b22772499c48682c81228743f527cb16bfc29e020f2d081cf3",
+                "sha256:ce4d530f33a838213bf52a0ddb813177bd13d9d31e262357a04306dea2c263f1",
+                "sha256:ce9acf845dfbf894ea1aec4373f4d4275b9f0a5380ad4c6aa2f958a3d2d39559"
+            ],
+            "version": "==1.1.0"
+        },
+        "psutil": {
+            "hashes": [
+                "sha256:1020a37214c4138e34962881372b40f390582b5c8245680c04349c2afb785a25",
+                "sha256:151c9858c268a1523e16fab33e3bc3bae8a0e57b57cf7fcad85fb409cbac6baf",
+                "sha256:1c8e6444ca1cee9a60a1a35913b8409722f7474616e0e21004e4ffadba59964b",
+                "sha256:722dc0dcce5272f3c5c41609fdc2c8f0ee3f976550c2d2f2057e26ba760be9c0",
+                "sha256:86f61a1438c026c980a4c3e2dd88a5774a3a0f00d6d0954d6c5cf8d1921b804e",
+                "sha256:c4a2f42abee709ed97b4498c21aa608ac31fc1f7cc8aa60ebdcd3c80757a038d",
+                "sha256:d9cdc2e82aeb82200fff3640f375fac39d88b1bed27ce08377cd7fb0e3621cb7",
+                "sha256:da6676a484adec2fdd3e1ce1b70799881ffcb958e40208dd4c5beba0011f3589",
+                "sha256:dca71c08335fbfc6929438fe3a502f169ba96dd20e50b3544053d6be5cb19d82"
+            ],
+            "version": "==5.6.0"
+        },
+        "xlwings": {
+            "hashes": [
+                "sha256:ad85123f1bfdeb8f9017c7255538cde9d8787a2f4cbd513c8174594d66b1a0bf"
+            ],
+            "index": "pypi",
+            "version": "==0.15.3"
+        }
+    },
+    "develop": {}
+}
